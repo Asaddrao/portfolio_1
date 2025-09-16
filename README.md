@@ -51,3 +51,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+## Developed By 
+
+Asad Rao – Frontend Developer & UI Expert
